@@ -21,5 +21,3 @@ house_value * (interest_rate * (1 + interest_rate) ** num_months) / ((1 + intere
 1500000 * (7 * (1 + 7) ** 48) / ((1 + 7) ** 48 - 1) = 35919.37
 
 ```
- # live demo
- [Finance_calculator](https://raw.githack.com/Matt19890303/Financial-Calculator/main/finance_calculators.py)
